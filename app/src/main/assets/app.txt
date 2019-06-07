@@ -1,0 +1,599 @@
+﻿I 几大块区域
+口语、听力、词汇、阅读、拓展
+II 细分区域
+1.口语
+（1）玩转口语就这900句（有配套音频）
+（2）人人说英语，说来说去就这1000句（有配套音频）
+（3）英语入门王（有配套音频）
+（4）校园英语
+（5）美国地道口语手册
+（6）英文绕口令
+2.听力
+（1）全新版大学英语（听说教程）1-4册
+（2）全新版大学英语（视听阅读）第三册
+（3）全新版大学进阶英语（视听说教程）1-2册（等待未来的3-4册，此教程为现在用的同步教程）
+3.词汇
+（1）新视野大学英语课本词汇 1-4册（现用教材，有配套光盘）
+（2）星火词网（4级）无音频
+（3）星火词网（6级）无音频
+（4）流行英语口语词汇 （无音频，需下载PDF）
+4.阅读
+（1）新视野大学英语 1-4册 （课文A、B，配有音频）
+（2）批判性阅读（1-2册）（无音频，需下载PDF）
+（3）外刊阅读 （材料待定，可以选用一本书+课可更新的新材料）
+5.拓展
+（1）四六级考试  （试卷有音频）
+四级试卷、六级试卷、四级专项突破、六级专项突破
+（2）英语演讲
+名人励志演讲精华、名校励志演讲与口才、名人名校励志演讲  （全部配有音频）
+（3）英文歌曲 （有音频）
+（4）流行影视  
+（5）经典美文、诗歌
+英文经典诗歌、英文经典散文、英文领袖语录
+（6）汉英时事用语
+（7）文化翻译
+（8）毛主席语录
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
+<TextView
+        android:id="@+id/spo_title"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/baseBoard"
+        android:gravity="center_vertical"
+        android:paddingLeft="40dp"
+        android:text="this is title"
+        android:textSize="20dp" />
